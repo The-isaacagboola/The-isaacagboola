@@ -62,7 +62,7 @@ const isaac: Engineer = {
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Mobile Development
-![React Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
 
 
 ---
