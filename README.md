@@ -99,10 +99,10 @@ I approach software the way a mathematician approaches a theorem — with precis
 ## 🌱 Currently Exploring
 
 ```
-AI Engineering                ██████░░░░░░  Learning
-Python          ████████░░░░  Growing
-LLM Applications        ████░░░░░░░░  Curious
-Backend Architecture    █████████░░░  Deepening
+AI Engineering         ██████░░░░░░  Learning
+Python                 ████████░░░░  Growing
+LLM Applications       ████░░░░░░░░  Curious
+Backend Architecture   █████████░░░  Deepening
 ```
 
 ---
