@@ -22,14 +22,12 @@
 const isaac: Engineer = {
   name:     "Isaac Adeyemi Agboola",
   role:     "Software Engineer",
-  company:  "Qorebox Solutions Limited",
   location: "Abuja, Nigeria 🇳🇬",
 
   expertise: [
     "Senior Frontend Development",
     "Fullstack Engineering",
     "Software Architecture",
-    "Information Security (ISO 27001)",
     "Team Leadership & Mentorship",
   ],
 
@@ -111,9 +109,8 @@ Backend Architecture   █████████░░░  Deepening
 
 When I'm not architecting systems or reviewing PRs, you'll find me:
 
-- ✍️ **Writing & performing** spiritual gospel music — music as ministry
-- 🙏 **Leading Youth** in my faith community
-- 📐 **Thinking in proofs** — a mathematician who codes never stops seeing patterns
+- ✍️ **Music** exploring the gift of song-writing and musicianship 
+- 🙏 **Leading Youths** in my faith community
 - 🤝 **Coaching** the next generation of frontend developers
 
 ---
