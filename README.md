@@ -82,9 +82,7 @@ const isaac: Engineer = {
 
 ## 🧠 Engineering Philosophy
 
-> *"Mathematics taught me to seek elegant proofs — engineering taught me to ship them."*
-
-I approach software the way a mathematician approaches a theorem — with precision, rigor, and an obsession with finding the simplest solution to the hardest problems. Three years of professional engineering across national-scale platforms has shaped how I think about architecture, security, and team craft.
+> *"It's all about learning - In a field like software engineering, Curiousity drives everything"*
 
 **What I bring to a team:**
 - 🎯 **Systems thinking** — I design for scale before it's needed
